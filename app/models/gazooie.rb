@@ -1,0 +1,2 @@
+class Gazooie < ApplicationRecord
+end
